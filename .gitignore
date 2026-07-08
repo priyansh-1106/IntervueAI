@@ -106,11 +106,6 @@ Thumbs.db
 # backups created by script
 backups/
 
-# Vectorstore / Chroma DB
-vectorstore/
-src/vectorstore/
-**/chroma_db/
-*.sqlite3
 
 # Uploaded files and runtime data
 uploads/
