@@ -32,12 +32,6 @@ Project layout (important files)
 - `src/` — application source (models, pages, utils)
 - `vectorstore/chroma_db/` — Chroma DB files and SQLite store
 
-Notes
-- A `.gitignore` was added to exclude virtualenvs, backups and db files.
-- The repository previously underwent automated comment removal; originals are backed up under `backups/` (timestamped subfolders).
-
 Contributions
 Feel free to open issues or add PRs. If you run heavy data operations, keep backups of `vectorstore/` and `uploads/`.
 
-License
-Add your project license here.
