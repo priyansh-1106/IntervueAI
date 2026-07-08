@@ -1,0 +1,17 @@
+streamlit
+supabase
+bcrypt
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+groq
+python-dotenv
+pypdf
+python-docx
+pymupdf
+numpy
+Pillow
+sentence-transformers
+reportlab
+streamlit-javascript
